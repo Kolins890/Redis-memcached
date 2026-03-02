@@ -33,12 +33,21 @@
 
 Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.
 
+<img width="1353" height="251" alt="image" src="https://github.com/user-attachments/assets/ded0fe85-6e88-4b79-a68c-7872aff1ea06" />
+
+
 Задание 3. Удаление по TTL в Memcached
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5.
 
 Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.
 
+<img width="321" height="322" alt="image" src="https://github.com/user-attachments/assets/7146e27e-92f0-48aa-81a8-fbf087e23419" />
+
+
 Задание 4. Запись данных в Redis
 Запишите в Redis несколько ключей с любыми именами и значениями.
+
+<img width="299" height="258" alt="image" src="https://github.com/user-attachments/assets/9b1df936-95b0-4652-92e2-33c9528ea8bc" />
+
 
 Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.
